@@ -2,7 +2,7 @@
 📡 Intercept Busniess-Suit network traffic on Android device/emulator
 
 ## 📌 Latest Tested App Version
-- 🎯 Busniess-Suit App version: **536.0.0.18.435**
+- 🎯 Busniess-Suit App version: **540.0.0.24.107**
 - 🏗️ Architecture: **arm64-v8a**, **armeabi-v7a**
 
 ---
