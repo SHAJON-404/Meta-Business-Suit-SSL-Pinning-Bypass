@@ -1,12 +1,12 @@
 # 🔐 Busniess-Suit-SSL-Pinning-Bypass
 📡 Intercept Busniess-Suit network traffic on Android device/emulator
 
-## 📌 Latest Tested App Version
-- 🎯 Busniess-Suit App version: **540.0.0.24.107**
+## 📌 Latest Bypassed & Tested App Version
+- 🎯 Busniess-Suit App version: **543.0.0.21.107**
 - 🏗️ Architecture: **arm64-v8a**, **armeabi-v7a**
 
 ---
-![headers](https://raw.githubusercontent.com/shajon-dev/Meta-Business-Suit-SSL-Pinning-Bypass/refs/heads/main/IMAGE/v536.jpg)
+![headers](https://raw.githubusercontent.com/shajon-dev/Meta-Business-Suit-SSL-Pinning-Bypass/refs/heads/main/IMAGE/v543.jpg)
 ---
 
 
@@ -20,12 +20,12 @@
 3. ⚙️ Root access on emulator  
 
 ## 🔧 Process (Android Device)
-1. 🔄 Replace patched `libcoldstart.so` with `/data/data/com.facebook.pages.app/lib-compressed/libstartup.so`  
+1. 🔄 Replace patched `libstartup.so` with `/data/data/com.facebook.pages.app/lib-compressed/libstartup.so`  
 2. 📊 Run ProxyPin or Reqable app to capture traffic  
 
 ## ⚡ Process (Windows + Emulator)
 1. 🔌 Install Reqable on Windows and configure proxy settings  
-2. 🔄 Replace patched `libcoldstart.so` in emulator at `/data/data/com.facebook.pages.app/lib-compressed/libstartup.so`  
+2. 🔄 Replace patched `libstartup.so` in emulator at `/data/data/com.facebook.pages.app/lib-compressed/libstartup.so`  
 3. 🚀 Start traffic interception in Reqable  
 
 ## Looking for leatest version patched `libstartup.so`? Contact me on Telegram
@@ -43,3 +43,21 @@
   </a>
 </p>
 
+---
+
+## 📜 License
+
+This project is licensed under the  
+**Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** License.
+
+You are free to:
+- Share — copy and redistribute the material
+- Adapt — remix, transform, and build upon the material
+
+Under the following terms:
+- Attribution — You must give appropriate credit to the original author (S. SHAJON).
+- NonCommercial — You may not use this project for commercial or professional purposes.
+
+⚠ Commercial or professional use requires prior written permission from the author.
+
+🔗 Full License: https://creativecommons.org/licenses/by-nc/4.0/
