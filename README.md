@@ -1,32 +1,46 @@
-# 🔐 Busniess-Suit-SSL-Pinning-Bypass
-📡 Intercept Busniess-Suit network traffic on Android device/emulator
+# 🔐 Meta-Business-Suit-SSL-Pinning-Bypass
+📡 Intercept Meta Business Suite network traffic on Android device
 
-## 📌 Latest Bypassed & Tested App Version
-- 🎯 Busniess-Suit App version: **543.0.0.21.107**
-- 🏗️ Architecture: **arm64-v8a**, **x86_64**
+## 📌 Latest Tested App Version
+- 🎯 Business Suite version: **545.0.0.49.109**
+- Architecture: **arm64-v8a, armeabi-v7a**
+- For any inquiries, please contact me on Telegram [https://t.me/DarknessKing999](https://t.me/DarknessKing999)
 
----
-![headers](https://raw.githubusercontent.com/shajon-dev/Meta-Business-Suit-SSL-Pinning-Bypass/refs/heads/main/IMAGE/v543.jpg)
----
+## 🎥 Evidence
+![Business Suite Android](assets/v545.jpg)
 
+## ✅ Other Apps
+1. [Facebook Android](https://github.com/shajon-dev/Facebook-SSL-Pinning-Bypass)
+2. [Facebook iOS](https://github.com/shajon-dev/iOS-Facebook-SSL-Pinning-Bypass)
+3. [Messenger Android](https://github.com/shajon-dev/Messenger-SSL-Pinning-Bypass)
+4. [Messenger iOS](https://github.com/shajon-dev/iOS-Messenger-SSL-Pinning-Bypass)
+5. [Instagram Android](https://github.com/shajon-dev/Instagram-SSL-Pinning-Bypass)
+6. [Instagram iOS](https://github.com/shajon-dev/iOS-Instagram-SSL-Pinning-Bypass)
+7. [Threads Android](https://github.com/shajon-dev/Threads-SSL-Pinning-Bypass)
+8. [Threads iOS](https://github.com/shajon-dev/iOS-Threads-SSL-Pinning-Bypass)
 
-## 📱 Requirements for Android Device
-1. 🔓 Rooted Android Phone  
-2. 🛠️ ProxyPin or Reqable App  
+## 📱 Requirements
+1. 🔓 Rooted Android phone or Emulator with root access (ldplayer9 / nox player)
+2. 🛠️ ADB tools installed on your computer
+3. 🔄 ProxyPin or Reqable App for traffic capture
 
-## 💻 Requirements for Emulator
-1. 🖥️ Windows PC with Reqable installed  
-2. 📲 Android emulator (Nox/LDPlayer)  
-3. ⚙️ Root access on emulator  
+## 🔧 Setup Process
+ 1. 🔧 **Replace patched `libstartup.so`** with the original file at: `/data/data/com.facebook.pages.app/lib-compressed/libstartup.so`
+ 2. 📲 **Use ADB command** to push the patched library:
+    ```
+    adb push D:\patched\libstartup.so /data/data/com.facebook.pages.app/lib-compressed/libstartup.so
+    ```
+ 4. Use any packet capture tool to monitor Business Suite network traffic.
 
-## 🔧 Process (Android Device)
-1. 🔄 Replace patched `libstartup.so` with `/data/data/com.facebook.pages.app/lib-compressed/libstartup.so`  
-2. 📊 Run ProxyPin or Reqable app to capture traffic  
+## 📦 For Demo - Download Official APKs
+**📥 Download Meta Business Suite 500.0.0.68.109 from official sources:**
 
-## ⚡ Process (Windows + Emulator)
-1. 🔌 Install Reqable on Windows and configure proxy settings  
-2. 🔄 Replace patched `libstartup.so` in emulator at `/data/data/com.facebook.pages.app/lib-compressed/libstartup.so`  
-3. 🚀 Start traffic interception in Reqable  
+- **🔧 arm64-v8a (64-bit):** [https://www.apkmirror.com/apk/facebook-2/pages-manager/meta-business-suite-500-0-0-68-109-release/meta-business-suite-500-0-0-68-109-7-android-apk-download/](https://www.apkmirror.com/apk/facebook-2/pages-manager/meta-business-suite-500-0-0-68-109-release/meta-business-suite-500-0-0-68-109-7-android-apk-download/)
+
+- **🔧 armeabi-v7a (32-bit):** [https://www.apkmirror.com/apk/facebook-2/pages-manager/meta-business-suite-500-0-0-68-109-release/meta-business-suite-500-0-0-68-109-13-android-apk-download/](https://www.apkmirror.com/apk/facebook-2/pages-manager/meta-business-suite-500-0-0-68-109-release/meta-business-suite-500-0-0-68-109-13-android-apk-download/)
+
+**📂 Free Patched `libstartup.so` files are available in the `libs/` folder**
+**📜 Consolidated login scripts are available in the `login.sh` file**
 
 ## Looking for leatest version patched `libstartup.so`? Contact me on Telegram
 <p align="left">
@@ -42,8 +56,6 @@
     <img src="https://img.youtube.com/vi/-Tm5d5DqtWI/maxresdefault.jpg" alt="Tutorial Video" width="700" />
   </a>
 </p>
-
----
 
 ## 📜 License
 
