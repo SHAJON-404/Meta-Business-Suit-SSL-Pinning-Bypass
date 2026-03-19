@@ -3,7 +3,7 @@
 
 ## 📌 Latest Bypassed & Tested App Version
 - 🎯 Busniess-Suit App version: **543.0.0.21.107**
-- 🏗️ Architecture: **arm64-v8a**, **armeabi-v7a**
+- 🏗️ Architecture: **arm64-v8a**, **x86_64**
 
 ---
 ![headers](https://raw.githubusercontent.com/shajon-dev/Meta-Business-Suit-SSL-Pinning-Bypass/refs/heads/main/IMAGE/v543.jpg)

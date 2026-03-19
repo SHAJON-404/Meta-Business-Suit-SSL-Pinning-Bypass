@@ -1,3 +1,5 @@
+# use https://tools.shajon.dev/curl-converter
+
 curl -X POST 'https://b-graph.facebook.com/auth/login' \
   -H 'X-FB-Request-Analytics-Tags: {"network_tags":{"product":"121876164619130","retry_attempt":"0"},"application_tags":"unknown"}' \
   -H 'X-FB-Connection-Type: dummy' \
@@ -23,3 +25,4 @@ curl -X POST 'https://b-graph.facebook.com/auth/login' \
   -H 'Content-Length: 830'  \
    --data 'adid=a98acb0a-1bf8-4134-963d-8b92355723bb&format=json&device_id=2785cf6c-f7da-4e18-830f-20cf5b36ef03&email=By_S.+SHAJON&password=%23PWD_ENC%3A2%3A1755422849%3AAYpurOVBDi4NXDGV9tIAAT00qJ0M0mtSXA3qjfZel49tHB%2BIVrpW2CraD%2Fo4KvW8UhGtsqJWrmKIvIf%2B2JykV%2F3laweB1l2jcjSrlmzZ2OIK8ycitIY7eAqmE4IZ32zwLFzGrO%2FsOAndjwnoAVsFKSOIxQTRE3%2Ft3bJuil6L7JEuyogJcYH2IPi7hEwnW8Py7Z5rvzM1fxlioo002ptgjO9epl0G20IBmneBtZg9UJmvBP1osHFTAu5bpkCVD5ME2%2BUiAHdneZF3MuUJWuB0VlzvRBUzSYXIPc0qNvYSX%2FYCqqWnssgVrWYuKxDpBScrro0QXa82DC5LpgaKvyuTkSuOnBSGCwDxiKbItvApC%2FCDizuatvx9guYJ5aQdPhxTX0SwyaKcrViKXe13&generate_analytics_claim=1&community_id=&cpl=true&family_device_id=1167ce04-780d-4516-b718-bb26a2ad6928&secure_family_device_id=&credentials_type=password&generate_session_cookies=1&generate_machine_id=1&jazoest=22474&meta_inf_fbmeta=NO_FILE&advertiser_id=a98acb0a-1bf8-4134-963d-8b92355723bb&currently_logged_in_userid=0&locale=en_US&client_country_code=BD&fb_api_req_friendly_name=authenticate&fb_api_caller_class=AuthOperations%24PasswordAuthOperation&api_key=121876164619130&sig=3f8750e6adec94f45efb7096a3d57c18&access_token=121876164619130%7C1ab2c5c902faedd339c14b2d58e929dc' \
   --compressed
+
