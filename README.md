@@ -74,7 +74,7 @@ If this project helped you, consider buying me a coffee! ❤️
  1. 🔧 **Replace patched `libstartup.so`** with the original file at: `/data/data/com.facebook.pages.app/lib-compressed/libstartup.so`
  2. 📲 **Use ADB command** to push the patched library:
     ```
-    adb push D:\patched\libstartup.so /data/data/com.facebook.pages.app/lib-compressed/libstartup.so
+    adb push [YOUR_libstartup.so_PATH] /data/data/com.facebook.pages.app/lib-compressed/libstartup.so
     ```
  4. Use any packet capture tool to monitor Business Suite network traffic.
 
