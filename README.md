@@ -2,13 +2,13 @@
 📡 Intercept Meta Business Suite network traffic on Android device
 
 ## 📌 Latest Bypassed and Tested App Details
-- App version: **547.0.0.13.109**
+- App version: **547.0.0.40.109**
 - Architecture: **arm64-v8a, armeabi-v7a**
 - Tools Used for test: [Mitmproxy](https://mitmproxy.org/), [Burp Suite](https://portswigger.net/burp), [HTTP Toolkit](https://httptoolkit.com/), [Reqable](https://reqable.com/).
 - For any inquiries, please contact me on Telegram [https://t.me/DarknessKing999](https://t.me/DarknessKing999)
 
 ## 🎥 Evidence
-![Business Suite Android](assets/v547.jpg)
+![Business Suite Android](assets/v547.40.jpg)
 
 ## ✅ Other Apps
 1. [Facebook Android](https://github.com/shajon-dev/Facebook-SSL-Pinning-Bypass)
@@ -39,7 +39,7 @@
   <tbody>
     <tr>
       <td rowspan="2" align="center"><code>com.facebook.pages.app</code></td>
-      <td align="center">547.0.0.13.109</td>
+      <td align="center">547.0.0.40.109</td>
       <td align="center">✅ Bypassed</td>
       <td colspan="2" align="center"><a href="https://t.me/DarknessKing999">Contact Telegram</a></td>
     </tr>
