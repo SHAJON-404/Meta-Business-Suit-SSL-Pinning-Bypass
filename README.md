@@ -2,7 +2,7 @@
 📡 Intercept Meta Business Suite network traffic on Android device
 
 ## 📌 Latest Bypassed and Tested App Details
-- App version: **548.0.0.24.107**
+- App version: **548.0.0.62.107**
 - Architecture: **arm64-v8a, armeabi-v7a**
 - Tools Used for test: [Mitmproxy](https://mitmproxy.org/), [Burp Suite](https://portswigger.net/burp), [HTTP Toolkit](https://httptoolkit.com/), [Reqable](https://reqable.com/).
 - For any inquiries, please contact me on Telegram [https://t.me/DarknessKing999](https://t.me/DarknessKing999)
@@ -40,7 +40,7 @@
   <tbody>
     <tr>
       <td rowspan="2" align="center"><code>com.facebook.pages.app</code></td>
-      <td align="center">548.0.0.24.107</td>
+      <td align="center">548.0.0.62.107</td>
       <td align="center">✅ Bypassed</td>
       <td align="center">Yes</td>
       <td colspan="2" align="center"><a href="https://t.me/DarknessKing999">Contact Telegram</a></td>
@@ -48,7 +48,7 @@
     <tr>
       <td align="center">500.0.0.68.109</td>
       <td align="center">✅ Bypassed</td>
-      <td align="center">Yes</td>
+      <td align="center">No</td>
       <td align="center"><a href="https://www.apkmirror.com/apk/facebook-2/pages-manager/meta-business-suite-500-0-0-68-109-release/meta-business-suite-500-0-0-68-109-7-android-apk-download/">Download Link</a></td>
       <td align="center"><a href="https://www.apkmirror.com/apk/facebook-2/pages-manager/meta-business-suite-500-0-0-68-109-release/meta-business-suite-500-0-0-68-109-13-android-apk-download/">Download Link</a></td>
     </tr>
