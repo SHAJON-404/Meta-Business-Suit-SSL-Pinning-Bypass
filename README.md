@@ -2,13 +2,13 @@
 📡 Intercept Meta Business Suite network traffic on Android device
 
 ## 📌 Latest Bypassed and Tested App Details
-- App version: **557.0.0.3.108**
+- App version: **560.0.0.44.106**
 - Architecture: **arm64-v8a, armeabi-v7a**
 - Tools Used for test: [Mitmproxy](https://mitmproxy.org/), [Reqable](https://reqable.com/).
 - For any inquiries, please contact me on Telegram [https://t.me/SHAJON](https://t.me/SHAJON)
 
 ## 🎥 Evidence
-![Business Suite Android](assets/v557.jpg)
+![Business Suite Android](assets/v560.jpg)
 
 ## ✅ Other Apps
 1. [Facebook Android](https://github.com/shajon-dev/Facebook-SSL-Pinning-Bypass)
@@ -40,7 +40,7 @@
   <tbody>
     <tr>
       <td rowspan="2" align="center"><code>com.facebook.pages.app</code></td>
-      <td align="center">557.0.0.3.108</td>
+      <td align="center">560.0.0.44.106</td>
       <td align="center">✅ Bypassed</td>
       <td align="center">No</td>
       <td colspan="2" align="center"><a href="https://t.me/SHAJON">Contact Telegram</a></td>
